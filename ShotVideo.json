@@ -39,6 +39,7 @@
         "is_facebook_first": true,
         "ads_count": 5,
         "backword_ads_count": 5,
+        "streaming_video_api": "https://stockomarket.com/api/icallerLLC/talkly/live_stream?primaryTag=girls&userRole=guest",
         "in_video_ads_time": 30,
         "reels_videos": "https://stockomarket.com/api/icallerLLC/talkly/viral_reels_videos",
         "reels_ad_counts": 5,
@@ -47,12 +48,6 @@
         "website_ad_list": [
             "https://pub-play-onlinegames.gamesdonut.com"
         ],
-        "force_update": false,
-        "force_update_url": "",
-        "more_ad_status": false,
-        "int_more_ad_status": false,
-        "more_ad": [],
-        "int_more_ad": [],
         "privacy_policy": "https://codeeagleinfotech.blogspot.com/2023/10/privacy-policy.html"
     }
 }
