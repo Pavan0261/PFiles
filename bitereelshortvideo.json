@@ -19,23 +19,23 @@
             ""
         ],
         "fb_banner": [
-            "1322418672256998_1322431352255730"
+            "IMG_320_50_APP_INSTALL_TEST "
         ],
         "fb_int": [
-            "1322418672256998_1322431592255706",
-            "1322418672256998_1322431592255706"
+            "IMG_16_9_APP_INSTALL_TEST ",
+            "IMG_16_9_APP_INSTALL_TEST "
         ],
         "fb_native": [
-            "1322418672256998_1322431398922392",
-            "1322418672256998_1322431398922392"
+            "YOUR_PLACEMENT_ID",
+            "YOUR_PLACEMENT_ID"
         ],
         "fb_native_banner": [
-            "1322418672256998_1322431538922378",
-            "1322418672256998_1322431538922378"
+            "YOUR_PLACEMENT_ID",
+            "YOUR_PLACEMENT_ID"
         ],
         "double_ad_status": false,
         "ads_status": true,
-        "splash_ads_status": false,
+        "splash_ads_status": true,
         "is_facebook_first": true,
         "ads_count": 1,
         "backword_ads_count": 1,
