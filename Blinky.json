@@ -19,19 +19,19 @@
             ""
         ],
         "fb_banner": [
-            "IMG_16_9_APP_INSTALL#your-placement-id"
+            "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID"
         ],
         "fb_int": [
-            "IMG_16_9_APP_INSTALL#your-placement-id",
-            "IMG_16_9_APP_INSTALL#your-placement-id"
+            "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+            "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID"
         ],
         "fb_native": [
-            "VID_HD_9_16_39S_APP_INSTALL#your-placement-id",
-            "VID_HD_9_16_39S_APP_INSTALL#your-placement-id"
+            "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+            "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID"
         ],
         "fb_native_banner": [
-            "IMG_16_9_APP_INSTALL#your-placement-id",
-            "IMG_16_9_APP_INSTALL#your-placement-id"
+            "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+            "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID"
         ],
         "double_ad_status": false,
         "ads_status": true,
