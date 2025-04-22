@@ -1,0 +1,159 @@
+{
+  "data": [
+    {
+      "name": "Santa Claus",
+      "image": "https://rajanikhana.github.io/mical/fack-call-vp/image/santa.webp",
+      "video": "https://rajanikhana.github.io/mical/fack-call-vp/video/santa.mp4"
+    },
+    {
+      "name": "Lisa",
+      "image": "https://rajanikhana.github.io/mical/fack-call-vp/image/lisa_rose.webp",
+      "video": "https://rajanikhana.github.io/mical/fack-call-vp/video/lisa.mp4"
+    },
+    {
+      "name": "Jennie",
+      "image": "https://rajanikhana.github.io/mical/fack-call-vp/image/jennie.webp",
+      "video": "https://rajanikhana.github.io/mical/fack-call-vp/video/jennie.mp4"
+    },
+    {
+      "name": "Ariel",
+      "image": "https://rajanikhana.github.io/mical/fack-call-vp/image/ariel.webp",
+      "video": "https://rajanikhana.github.io/mical/fack-call-vp/video/ariel.mp4"
+    },
+    {
+      "name": "Jisoo",
+      "image": "https://rajanikhana.github.io/mical/fack-call-vp/image/jisoo.webp",
+      "video": "https://rajanikhana.github.io/mical/fack-call-vp/video/jisoo.mp4"
+    },
+    {
+      "name": "Anna",
+      "image": "https://rajanikhana.github.io/mical/fack-call-vp/image/anna.webp",
+      "video": "https://rajanikhana.github.io/mical/fack-call-vp/video/anna.mp4"
+    },
+    {
+      "name": "Taylor Swift",
+      "image": "https://rajanikhana.github.io/mical/fack-call-vp/image/taylor_swift.webp",
+      "video": "https://rajanikhana.github.io/mical/fack-call-vp/video/taylor_swift.mp4"
+    },
+    {
+      "name": "ronaldo",
+      "image": "https://rajanikhana.github.io/mical/fack-call-vp/image/ronaldo.webp",
+      "video": "https://rajanikhana.github.io/mical/fack-call-vp/video/ronaldo.mp4"
+    },
+    {
+      "name": "Mbappe",
+      "image": "https://rajanikhana.github.io/mical/fack-call-vp/image/mbappe.webp",
+      "video": "https://rajanikhana.github.io/mical/fack-call-vp/video/mbappe.mp4"
+    },
+    {
+      "name": "Neymar",
+      "image": "https://rajanikhana.github.io/mical/fack-call-vp/image/neymar_jr.webp",
+      "video": "https://rajanikhana.github.io/mical/fack-call-vp/video/neymar_jr.mp4"
+    },
+    {
+      "name": "Messi",
+      "image": "https://rajanikhana.github.io/mical/fack-call-vp/image/messi.webp",
+      "video": "https://rajanikhana.github.io/mical/fack-call-vp/video/messi.mp4"
+    },
+    {
+      "name": "Alien",
+      "image": "https://rajanikhana.github.io/mical/fack-call-vp/image/alien.webp",
+      "video": "https://rajanikhana.github.io/mical/fack-call-vp/video/alien.mp4"
+    },
+    {
+      "name": "Demon",
+      "image": "https://rajanikhana.github.io/mical/fack-call-vp/image/demon.webp",
+      "video": "https://rajanikhana.github.io/mical/fack-call-vp/video/demon.mp4"
+    },
+    {
+      "name": "Doll",
+      "image": "https://rajanikhana.github.io/mical/fack-call-vp/image/doll.webp",
+      "video": "https://rajanikhana.github.io/mical/fack-call-vp/video/doll.mp4"
+    },
+    {
+      "name": "Elsa",
+      "image": "https://rajanikhana.github.io/mical/fack-call-vp/image/elsa.webp",
+      "video": "https://rajanikhana.github.io/mical/fack-call-vp/video/elsa.mp4"
+    },
+    {
+      "name": "Jasmine",
+      "image": "https://rajanikhana.github.io/mical/fack-call-vp/image/jasmine.webp",
+      "video": "https://rajanikhana.github.io/mical/fack-call-vp/video/jasmine.mp4"
+    },
+    {
+      "name": "Karina",
+      "image": "https://rajanikhana.github.io/mical/fack-call-vp/image/karina.webp",
+      "video": "https://rajanikhana.github.io/mical/fack-call-vp/video/karina.mp4"
+    },
+    {
+      "name": "Lisa & Rose",
+      "image": "https://rajanikhana.github.io/mical/fack-call-vp/image/lisa_rose.webp",
+      "video": "https://rajanikhana.github.io/mical/fack-call-vp/video/lisa_rose.mp4"
+    },
+    {
+      "name": "Maleficent",
+      "image": "https://rajanikhana.github.io/mical/fack-call-vp/image/maleficent.webp",
+      "video": "https://rajanikhana.github.io/mical/fack-call-vp/video/maleficent.mp4"
+    },
+    {
+      "name": "Merida",
+      "image": "https://rajanikhana.github.io/mical/fack-call-vp/image/merida.webp",
+      "video": "https://rajanikhana.github.io/mical/fack-call-vp/video/merida.mp4"
+    },
+    {
+      "name": "Mr Bean",
+      "image": "https://rajanikhana.github.io/mical/fack-call-vp/image/mr_bean.webp",
+      "video": "https://rajanikhana.github.io/mical/fack-call-vp/video/mr_bean.mp4"
+    },
+    {
+      "name": "Neighbor",
+      "image": "https://rajanikhana.github.io/mical/fack-call-vp/image/neighbor.webp",
+      "video": "https://rajanikhana.github.io/mical/fack-call-vp/video/neighbor.mp4"
+    },
+    {
+      "name": "Nyusha",
+      "image": "https://rajanikhana.github.io/mical/fack-call-vp/image/nyusha.webp",
+      "video": "https://rajanikhana.github.io/mical/fack-call-vp/video/nyusha.mp4"
+    },
+    {
+      "name": "Princess Peach",
+      "image": "https://rajanikhana.github.io/mical/fack-call-vp/image/princess_peach.webp",
+      "video": "https://rajanikhana.github.io/mical/fack-call-vp/video/princess_peach.mp4"
+    },
+    {
+      "name": "Putin",
+      "image": "https://rajanikhana.github.io/mical/fack-call-vp/image/putin.webp",
+      "video": "https://rajanikhana.github.io/mical/fack-call-vp/video/putin.mp4"
+    },
+    {
+      "name": "Rapunzel",
+      "image": "https://rajanikhana.github.io/mical/fack-call-vp/image/rapunzel.webp",
+      "video": "https://rajanikhana.github.io/mical/fack-call-vp/video/rapunzel.mp4"
+    },
+    {
+      "name": "Santa Rrock",
+      "image": "https://rajanikhana.github.io/mical/fack-call-vp/image/santa_rock.webp",
+      "video": "https://rajanikhana.github.io/mical/fack-call-vp/video/santa_rock.mp4"
+    },
+    {
+      "name": "Wednesday",
+      "image": "https://rajanikhana.github.io/mical/fack-call-vp/image/wednesday.webp",
+      "video": "https://rajanikhana.github.io/mical/fack-call-vp/video/wednesday.mp4"
+    },
+    {
+      "name": "rose",
+      "image": "https://rajanikhana.github.io/mical/fack-call-vp/image/rose.webp",
+      "video": "https://rajanikhana.github.io/mical/fack-call-vp/video/rose.mp4"
+    },
+    {
+      "name": "Frozen Sisters",
+      "image": "https://rajanikhana.github.io/mical/fack-call-vp/image/frozen_sisters.webp",
+      "video": "https://rajanikhana.github.io/mical/fack-call-vp/video/frozen_sisters.mp4"
+    },
+    {
+      "name": "spranki",
+      "image": "https://rajanikhana.github.io/mical/fack-call-vp/image/spranki.webp",
+      "video": "https://rajanikhana.github.io/mical/fack-call-vp/video/spranki.mp4"
+    }
+  ]
+}
