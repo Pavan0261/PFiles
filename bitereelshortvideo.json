@@ -3,55 +3,62 @@
     "message": "Success",
     "data": {
         "g_banner": [
-            "",
-            ""
+            "/21753324030,23204693656/com.blinky.livevideocall_Banner",
+            "/21753324030,23204693656/com.blinky.livevideocall_Banner"
         ],
         "g_int": [
-            "",
-            ""
+            "/21753324030,23204693656/com.blinky.livevideocall_Interstitial",
+            "/21753324030,23204693656/com.blinky.livevideocall_Interstitial"
         ],
         "g_native": [
-            "",
-            ""
+            "/21753324030,23204693656/com.blinky.livevideocall_Native",
+            "/21753324030,23204693656/com.blinky.livevideocall_Native"
         ],
         "g_open": [
-            "",
-            ""
+            "/21753324030,23204693656/com.blinky.livevideocall_AppOpen",
+            "/21753324030,23204693656/com.blinky.livevideocall_AppOpen"
         ],
         "fb_banner": [
-            "1322418672256998_1322431352255730"
+            ""
         ],
         "fb_int": [
-            "1322418672256998_1322431592255706",
-            "1322418672256998_1322431592255706"
+            "ca-app-pub-5777648021562994/5912433503",
+            "ca-app-pub-5777648021562994/5912433503"
         ],
         "fb_native": [
-            "1322418672256998_1322431398922392",
-            "1322418672256998_1322431398922392"
+            "ca-app-pub-5777648021562994/3911880724",
+            "ca-app-pub-5777648021562994/3911880724"
         ],
         "fb_native_banner": [
-            "1322418672256998_1322431538922378",
-            "1322418672256998_1322431538922378"
+            "ca-app-pub-5777648021562994/7434524465",
+            "ca-app-pub-5777648021562994/7434524465"
         ],
         "double_ad_status": false,
         "ads_status": true,
         "splash_ads_status": true,
         "is_facebook_first": true,
+        "by_pass": false,
         "ads_count": 1,
         "backword_ads_count": 1,
-        "streaming_video_api": "https://pavan0261.github.io/PFiles/Video/Strimvideo.json",
+        "streaming_video_api": "https://stockomarket.com/api/GetData/liveStream?primaryTag=girls&userRole=guest&uniq=67a1b44e1f2c4",
+        "streaming_live_api": "https://stockomarket.com/api/GetData/liveStream?primaryTag=girls&userRole=guest&uniq=67a1b44e1f2c4",
         "in_video_ads_time": 30,
-        "reels_videos": "https://stockomarket.com/api/icallerLLC/talkly/viral_reels_videos",
+        "reels_videos": "",
         "reels_ad_counts": 5,
         "website_ad_status": false,
         "website_ad_count": 50,
         "website_ad_list": [
             ""
         ],
+        "live_video_api": "https://stockomarket.com/apps/fakecall/",
+        "live_video_min": 1,
+        "live_video_max": 66,
+        "force_update": false,
+        "force_update_url": "",
         "user": "username1",
         "pass": "password1",
         "wsRoom": "ws://142.93.223.217:8081",
         "turn": "turn:139.59.2.135:3478",
-        "privacy_policy": "https://www.google.co.in/"
+        "privacy_policy": "https://cromadigit.blogspot.com/2024/12/blinky-live-video-call.html"
     }
 }
