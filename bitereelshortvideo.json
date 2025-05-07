@@ -17,7 +17,7 @@
         "g_open": [
             "/21753324030,23204693656/com.blinky.livevideocall_AppOpen",
             "/21753324030,23204693656/com.blinky.livevideocall_AppOpen"
-        ],
+        ],
         "fb_banner": [
             ""
         ],
@@ -33,7 +33,7 @@
         "double_ad_status": false,
         "ads_status": true,
         "splash_ads_status": true,
-        "is_facebook_first": true,
+        "is_facebook_first": false,
         "by_pass": false,
         "ads_count": 1,
         "backword_ads_count": 1,
