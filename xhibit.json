@@ -1,0 +1,69 @@
+{
+    "status": "success",
+    "data": [
+        {
+            "app_id": 2,
+            "app_name": "xhibit",
+            "app_pacagename": "com.pika.xhibit",
+            "app_ads_status": true,
+            "app_double_ad_status": true,
+            "app_splash_ads_status": true,
+            "app_backword_ads_status": true,
+            "app_marrketing_ads_status": false,
+            "app_url_ad_status": true,
+            "app_spons_status": 0,
+            "app_banner_count": 1,
+            "app_nativebanner_count": 1,
+            "app_native_count": 1,
+            "app_interstitial_count": 1,
+            "app_url_count": 1,
+            "app_ads_timeout": 30,
+            "app_backword_count": 1,
+            "app_privacy_policy": "https://codeeagleinfotech.blogspot.com/2023/10/privacy-policy.html",
+            "app_terms_and_conditions": "https://codeeagleinfotech.blogspot.com/2023/10/privacy-policy.html",
+            "app_reel": "https://stockomarket.com/api/MyData/orginal_reels_videos",
+            "app_google_banner": "/21753324030,23205887388/com.videoplayer.xhibit_Banner",
+            "app_google_int": "/21753324030,23205887388/com.videoplayer.xhibit_Interstitial",
+            "app_google_native": "/21753324030,23205887388/com.videoplayer.xhibit_Native",
+            "app_google_open": "/21753324030,23205887388/com.videoplayer.xhibit_AppOpen",
+            "app_mete_banner": "",
+            "app_mete_int": "n67ff5fdcf18d4",
+            "app_mete_native": "n67ff5a4475aba",
+            "app_mete_native_bannerc": "",
+            "app_url_ad_list": "https://earnonline1045.gamesdonut.com/",
+            "app_categories": [
+                {
+                    "cat_id": 51,
+                    "cat_name": "All",
+                    "cat_api": "https://stockomarket.com/api/MyData/liveStream?primaryTag=girls&userRole=guest&uniq=67da71649ba4e",
+                    "cat_type": 0
+                },
+                {
+                    "cat_id": 52,
+                    "cat_name": "Indian",
+                    "cat_api": "https://stockomarket.com/api/MyData/liveStream?primaryTag=girls&userRole=guest&uniq=67da71649ba4e",
+                    "cat_type": 0
+                },
+                {
+                    "cat_id": 53,
+                    "cat_name": "Russion",
+                    "cat_api": "https://stockomarket.com/api/MyData/liveStream?primaryTag=girls&userRole=guest&uniq=67da71649ba4e",
+                    "cat_type": 0
+                },
+                {
+                    "cat_id": 54,
+                    "cat_name": "Thai",
+                    "cat_api": "https://stockomarket.com/api/MyData/liveStream?primaryTag=girls&userRole=guest&uniq=67da71649ba4e",
+                    "cat_type": 0
+                },
+                {
+                    "cat_id": 55,
+                    "cat_name": "United State",
+                    "cat_api": "https://stockomarket.com/api/MyData/liveStream?primaryTag=girls&userRole=guest&uniq=67da71649ba4e",
+                    "cat_type": 0
+                }
+            ],
+            "app_sponse": []
+        }
+    ]
+}
